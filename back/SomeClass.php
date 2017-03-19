@@ -8,4 +8,9 @@ class ClassName extends AnotherClass
 	{
 
 	}
+
+	public function someCrazyHeavyStuff()
+	{
+		return "that was heavy";
+	}
 }
