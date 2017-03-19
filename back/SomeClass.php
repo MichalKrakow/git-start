@@ -13,4 +13,9 @@ class ClassName extends AnotherClass
 	{
 		return "that was heavy";
 	}
+
+	public function whatTheFrontIsDoingThere()
+	{
+		return "hope it dont sucks";
+	}
 }
