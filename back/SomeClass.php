@@ -18,4 +18,8 @@ class ClassName extends AnotherClass
 	{
 		return "hope it dont sucks";
 	}
+	public function added_by_one()
+	{
+		
+	}
 }
