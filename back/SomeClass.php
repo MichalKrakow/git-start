@@ -20,6 +20,10 @@ class ClassName extends AnotherClass
 	}
 	public function added_by_one()
 	{
+
+	}
+	public function another_by_one()
+	{
 		
 	}
 }
