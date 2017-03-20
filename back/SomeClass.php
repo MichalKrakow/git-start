@@ -26,4 +26,8 @@ class ClassName extends AnotherClass
 	{
 		
 	}
+	public function added_by_two()
+	{
+		
+	}
 }
