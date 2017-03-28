@@ -11,11 +11,21 @@ class ClassName extends AnotherClass
 
 	public function someCrazyHeavyStuff()
 	{
-		return "that was heavy";
+		$some = getSome('get some');
+		return $some;
+	}
+
+	public function frontAddedMe()
+	{
+		return 'why would he do that...';
 	}
 
 	public function whatTheFrontIsDoingThere()
 	{
 		return "hope it dont sucks";
+	}
+
+	public function here(){
+		return frontAddedMe();
 	}
 }
