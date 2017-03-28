@@ -2,6 +2,7 @@
 <html>
 <head>
 	<title>This is some html starter</title>
+	<SomeMore></SomeMore>
 </head>
 <body>
 	
