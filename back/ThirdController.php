@@ -1,0 +1,5 @@
+<?php
+
+$cos = [
+	'where'	=> 'here'
+];
